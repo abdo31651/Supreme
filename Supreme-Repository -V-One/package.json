@@ -1,0 +1,21 @@
+{
+  "name": "supreme-repository",
+  "version": "1.0.0",
+  "description": "Supreme Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdelrahman Ashraf",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express.js": "^1.0.0",
+    "init": "^0.1.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.2",
+    "nodemon": "^3.1.7",
+    "validator": "^13.12.0"
+  }
+}
